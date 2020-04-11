@@ -3,3 +3,4 @@ for(var i=0; i<inputs.length;i+=1) {
 inputs[i].click();
 }
 kém
+////////////////////////
