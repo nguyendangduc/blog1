@@ -2,3 +2,4 @@ javascript:var inputs = document.getElementsByClassName('_42ft _4jy0 FriendReque
 for(var i=0; i<inputs.length;i+=1) {
 inputs[i].click();
 }
+kém
