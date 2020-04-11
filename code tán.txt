@@ -14,4 +14,8 @@
 //kém
 code binh thuong
 +++++++ádfdgsdfdsfddfdfdfsdsdf34s3333333dfsdsfdfdf11111111111
+<<<<<<< HEAD
 1234444444444
+=======
+123777777777777777
+>>>>>>> 56d68b7d6d4926a47563dcd850024a6f7eb5143f
