@@ -1,0 +1,15 @@
+ $(function(){
+       Friend myfriend=new Friend();   
+       var lifeTest;
+     lifeTest=myFriend.isLiving();      
+    while(lifeTest==true)      
+    {/lấy thời gian hiện tại ở việt nam
+     if(timeAtVietNamClock==22)    
+     {
+       $("#messengerInput").val("Chúc bé ngủ ngon!");      
+       $("#messengerSend").enforcement();     
+     }
+    }
+     })123
+//kém
+code binh thuong
